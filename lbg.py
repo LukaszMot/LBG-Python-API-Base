@@ -106,6 +106,12 @@ def read_all():
     # reading all items from database
 
     items = ItemModel.query.all()
+
+    # printing elements
+    for el in items:
+        print(el)
+
+
     if not items:
         # if there is an error, send back the error
         return jsonify(items), status.HTTP_200_OK
