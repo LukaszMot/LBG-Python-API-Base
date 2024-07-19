@@ -1,0 +1,243 @@
+[33mcommit e683894fa9606cac1b1e971e478cd84f3647ef45[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: LukaszMot <mot.lukasz@googlemail.com>
+Date:   Fri Jul 19 12:56:01 2024 +0000
+
+    changes
+
+[33mcommit 1cdf9035d801624cf5f0524ea962fe0e4cc6601a[m
+Author: LukaszMot <mot.lukasz@googlemail.com>
+Date:   Fri Jul 19 09:52:06 2024 +0000
+
+    lbg changes
+
+[33mcommit 08dd2b80a9ec2918e484ab4878182fa84fd67365[m
+Merge: 46650b8 7be3033
+Author: Lukasz <mot.lukasz@googlemail.com>
+Date:   Fri Jul 12 09:57:29 2024 +0100
+
+    Merge branch 'dev'
+
+[33mcommit 7be303340a776d51f5b22258cf88bb4f22430a96[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Lukasz <mot.lukasz@googlemail.com>
+Date:   Fri Jul 12 09:50:29 2024 +0100
+
+    adding file in dev b
+
+[33mcommit 46650b82dc50295615fb7ab3ef139d40ac4d27f4[m
+Author: Lukasz <mot.lukasz@googlemail.com>
+Date:   Fri Jul 12 09:47:27 2024 +0100
+
+    Revert "changes to index and lbg.py"
+    
+    This reverts commit 404d7a7f1ef66fc66e48a1c20fec3dce3dab4cd7.
+
+[33mcommit 404d7a7f1ef66fc66e48a1c20fec3dce3dab4cd7[m
+Author: Lukasz <mot.lukasz@googlemail.com>
+Date:   Fri Jul 12 09:40:37 2024 +0100
+
+    changes to index and lbg.py
+
+[33mcommit 50983df5904322fdf9004b87fd590a3b6041036d[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Fri Nov 10 10:10:53 2023 +0000
+
+    Update requirements.txt
+
+[33mcommit c9613d2a60e3ef86dbabe6b352726d5e673dc270[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Fri Nov 10 07:31:28 2023 +0000
+
+    Update lbg.test.py
+    
+    Fixed tear down class
+
+[33mcommit de199a655f0bf23ecd2cc3c4995ab99c05270704[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Fri Nov 10 07:20:05 2023 +0000
+
+    Update lbg.test.py
+    
+    Fixed broken tests
+
+[33mcommit 57aa7409c94d843b1c2ffcac2d43cc2ea8b6b797[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Mon Oct 23 16:08:26 2023 +0100
+
+    Update lbg.py, removed reference to docker.sh
+
+[33mcommit 414862e9be25501de9bddf35cca6b8b1745a5bff[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 09:55:53 2023 +0000
+
+    Update lbg.py
+
+[33mcommit f769a0a24b8a93c129aac322312f861e0f01c51d[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 09:07:33 2023 +0000
+
+    Update README.md
+
+[33mcommit 8bf3f037b61ee8d9cde4665c66284565f1987e40[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:33:19 2023 +0000
+
+    Update README.md
+
+[33mcommit dd15d48f4e06d6409b59cb784fc7ede94b6b9ee6[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:31:48 2023 +0000
+
+    Update requirements.txt
+
+[33mcommit 1a94f0f7066c35a2ce26882f4728d611eccdd12b[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:30:34 2023 +0000
+
+    Update Dockerfile
+
+[33mcommit cb143b5a623a9cb69d2fe420160f36ae3e9760a0[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:29:36 2023 +0000
+
+    Create .dockerignore
+
+[33mcommit d1e18d1f2a667cebae0338d0a53fdd4eeb2dd523[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:27:19 2023 +0000
+
+    Delete docker.sh
+
+[33mcommit 7ad720b8ebca04e7072fec8d24f10acf5cc6e819[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:26:57 2023 +0000
+
+    Update Jenkinsfile
+
+[33mcommit f9be038e20fc7b0abccb1244e12469c4563e86cb[m
+Author: PCMBarber <57707405+PCMBarber@users.noreply.github.com>
+Date:   Wed Feb 22 08:26:28 2023 +0000
+
+    Update Dockerfile
+
+[33mcommit 1a85b64a64a5074166f9c3cbd685f4c82f419171[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Fri Sep 23 14:25:22 2022 +0100
+
+    publish docker image to gcr using service account credentials in jenkisn
+
+[33mcommit 4355eeac89dbdf8dedbafb9716c825055dbc5ac5[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Wed Sep 21 00:25:12 2022 +0100
+
+    gcr
+
+[33mcommit 6629d54a749da602b4ab319933acb5c1138c3589[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Wed Sep 21 00:02:14 2022 +0100
+
+    changed public ip in dockerfile
+
+[33mcommit 2a53f24cd9630200d3522ce37b919136b8d9ec89[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 23:57:03 2022 +0100
+
+    fixed ssh command in dockerfile
+
+[33mcommit 0e9c78b92ca807057fa2f0ba6724c25f868e8e72[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 23:45:38 2022 +0100
+
+    fixed ssh command in dockerfile
+
+[33mcommit ef71e6b05462f410c3a05eb647a100e1d6d22c20[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 23:39:23 2022 +0100
+
+    fixed ssh command in dockerfile
+
+[33mcommit e6bfb76181713ffbb08904b423a598bfb8921c72[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 23:03:36 2022 +0100
+
+    fixed docker build in dockerfile
+
+[33mcommit 3a2544dd6a57d17c8e4b5f7f1a24d3e9371334e7[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 22:59:24 2022 +0100
+
+    fixed docker build in dockerfile
+
+[33mcommit 1ad8dc89cc2c6e84f7f9bad1b3ffc797b5d8e32b[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 22:48:20 2022 +0100
+
+    fixed docker build in dockerfile
+
+[33mcommit 541cf1209b3193038dd4cf172ea06fd3b75237a2[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 22:47:13 2022 +0100
+
+    fixed docker build in dockerfile
+
+[33mcommit 22571f06365c638f6e6895616fa02dd4fef1ba60[m
+Merge: 3e95b4b 791ea4c
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 22:44:06 2022 +0100
+
+    Merge branch 'main' of github.com:imcalled/LBG-Python-API
+
+[33mcommit 3e95b4b7509f62bd46436de636661e160eb953f9[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 20 22:43:54 2022 +0100
+
+    added jenkins file and dockerfile
+
+[33mcommit 791ea4c67edb876568a301dc5f13163c1adc531f[m
+Author: imcalled <57717234+imcalled@users.noreply.github.com>
+Date:   Tue Sep 20 22:42:20 2022 +0100
+
+    Delete ran
+
+[33mcommit 7419aa03e5b4e8efe8b9a9667fc20bffa3617cd6[m
+Author: imcalled <57717234+imcalled@users.noreply.github.com>
+Date:   Tue Sep 20 22:32:55 2022 +0100
+
+    Create ran
+
+[33mcommit c47ce7a904028b67a45835b487e59e94d4bd9466[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Tue Sep 13 14:23:43 2022 +0100
+
+    pushing
+
+[33mcommit e35d53b3a0b763771fc205891f5287728bbe9b39[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Fri Sep 9 12:58:58 2022 +0100
+
+    adding a read.me file
+
+[33mcommit e9c2b3312fbdcc1ec0b2fb92923791e6cf16468d[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Fri Sep 9 12:55:37 2022 +0100
+
+    Revert "testing change to verbosity, going to rollback in next commit"
+    
+    This reverts commit fa22a394219bcd3470637478e2e86150b7fbe472.
+
+[33mcommit fa22a394219bcd3470637478e2e86150b7fbe472[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Fri Sep 9 12:54:26 2022 +0100
+
+    testing change to verbosity, going to rollback in next commit
+
+[33mcommit e64c31aebec0f0e25defadc0e805423874fcfc37[m
+Author: imcalled <queenieyear@gmail.com>
+Date:   Fri Sep 9 12:53:36 2022 +0100
+
+    updated webdriver location in environment.py
+
+[33mcommit 3b0708331797b62564b4526f2fa2b38ca71e258e[m
+Author: Cameron <cguthrie@qa.com>
+Date:   Thu Sep 1 22:37:33 2022 +0100
+
+    CG: initial commit
